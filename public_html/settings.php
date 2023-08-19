@@ -3,8 +3,10 @@
   // $config["site_url"] = "http://www.accheer.com/";
   // $config["site_name"] = "AC Cheer | จตุรมิตรสามัคคีครั้งที่ 28";
   // $config["db_host"] = "localhost";
-  $config["db_username"] = "root";
-  $config["db_password"] = "";
+
+  // $config["db_username"] = "root";
+  // $config["db_password"] = "";
+
   // $config["db_dbname"] = "krit_accheer2019_dev_fullstand";
   // $config["db_dbname"] = "jatu28";
   $config["site_domain"] = "accheer.com";
@@ -17,6 +19,8 @@
   // $config["db_username"] = "";
   // $config["db_password"] = "";
   $config["db_dbname"] = "accheer";
+  $config["db_username"] = "accheer";
+  $config["db_password"] = "AcCheer1885Jatu+";
   
   // $config["db_username"] = "root";
   // $config["db_password"] = "ac1885jatu";
