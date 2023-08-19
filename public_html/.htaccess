@@ -1,0 +1,11 @@
+# BEGIN Gipsic
+
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^accheer.com [NC]
+RewriteRule ^(.*)$ https://www.accheer.com/$1 [L,R=301,NC]
+
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# END Gipsic
