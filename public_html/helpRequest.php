@@ -1,6 +1,7 @@
 <?php
 // header('Location: https://goo.gl/VDEfrd');
-header('Location: https://forms.gle/3QExukMSGU8ezEmZ9');
+// header('Location: https://forms.gle/3QExukMSGU8ezEmZ9');
+header('Location: https://forms.gle/vzpWvVG4q6kAf66w8');
 ?>
 <html>
   <head>
