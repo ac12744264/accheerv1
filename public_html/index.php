@@ -112,7 +112,7 @@
 
         <br><br>
 
-        <a class="btn btn-primary" href="/chooseRoomCheckSelfStatus.php">ตรวจสอบการกรอกข้อมูล</a>
+        <!-- <a class="btn btn-primary" href="/chooseRoomCheckSelfStatus.php">ตรวจสอบการกรอกข้อมูล</a> -->
 
         <a class="btn btn-primary" href="/saveStudentSelf.php">กรอกข้อมูลจำเป็น</a>
         
